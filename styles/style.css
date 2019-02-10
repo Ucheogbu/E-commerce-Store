@@ -248,10 +248,20 @@ body{
     border-radius: 5px;
     box-shadow: 0px 1px 5px rgba(0, 0, 0, .5);
 }
+.breadcrumb a{
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 10px
+}
+
+.breadcrumb a:hover{
+    background: #e7e7e7;
+}
 .breadcrumb> li + li:before{
     content: ">\00a0";
     color: #cccccc;
 }
+
 @media(max-width: 991px){
     .breadcrumb{
         padding: 8px 0px;
