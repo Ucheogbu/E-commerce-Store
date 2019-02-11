@@ -1,4 +1,5 @@
-<div class="panel panel-default sidebar-menu"> <!--panel panel-default sidebar-menu start-->
+<div class="col-md-3"> <!--col-md-3 begins -->
+    <div class="panel panel-default sidebar-menu"> <!--panel panel-default sidebar-menu start-->
     <div class="panel-heading"> <!--panel-heading start-->
         <h3 class="panel-title">Product Categories</h3>
     </div> <!--panel-heading ends-->
@@ -30,3 +31,11 @@
         </ul> <!--nav nav-pills nav-stacked category-menu ends-->
     </div> <!--panel-body ends-->
 </div> <!--panel panel-default sidebar-menu ends-->
+</div> <!--col-md-3 ends-->
+
+
+
+
+
+
+

@@ -23,12 +23,12 @@ include("includes/header.php")
 
         </div> <!--col-md-12 ends-->
 
-        <div class="col-md-3"> <!--col-md-3 begins -->
+        <div > <!--sidebar begins -->
 <?php
 include("includes/sidebar.php")
 ?>
 
-        </div> <!--col-md-3 ends-->
+        </div> <!--sidebar ends-->
 
         <div class="col-md-9"> <!--col-md-9 begins-->
 
